@@ -1,0 +1,10 @@
+[17-06-2019 19:51:53] Текст ошибки : Нет соединения с БД | Файл : E:\OSPanel\domains\iShop\vendor\ishop\core\Db.php | Строка : 18 
+======
+[17-06-2019 21:11:42] Текст ошибки : Class 'app\controllers\App' not found | Файл : E:\OSPanel\domains\iShop\app\controllers\MainController.php | Строка : 20 
+======
+[17-06-2019 21:17:00] Текст ошибки : Too few arguments to function ishop\Cache::set(), 1 passed in E:\OSPanel\domains\iShop\app\controllers\MainController.php on line 29 and at least 2 expected | Файл : E:\OSPanel\domains\iShop\vendor\ishop\core\Cache.php | Строка : 11 
+======
+[18-06-2019 00:21:44] Текст ошибки : Контроллер app\controllers\PageController не найден | Файл : E:\OSPanel\domains\iShop\vendor\ishop\core\Router.php | Строка : 39 
+======
+[29-06-2019 17:02:01] Текст ошибки : Страница не найдена | Файл : E:\OSPanel\domains\iShop\vendor\ishop\core\Router.php | Строка : 43 
+======
